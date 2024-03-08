@@ -1,16 +1,29 @@
-### Hi there 👋
+### Olá! Eu sou o Gustavo Carvalho ❤️
 
-<!--
-**gustavocarvalho1997/gustavocarvalho1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre
 
-Here are some ideas to get you started:
+- 🔭 Sou estudante no curso de Análise e Desenvolvimento de Sistemas na Faculdade de Informática e Administração Paulista (FIAP)
+- 🌱 Atualmente estou estudando **C#**, **React-Native** e aprimorando meus conhecimentos em **Java**, **Javascript**, **Python** e **SQL**
+- 📫 Contate-me no email: gustavocarvalho1997@hotmail.com
+- 😄 Pronomes: Any
+- ⚡ Fun fact: Adoro jogar no tempo livre e ler algo sobre tecnologia em geral
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Algumas Estatísticas
+
+<div>
+    <a href="https://github.com/gustavocarvalho1997">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavocarvalho1997&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavocarvalho1997&layout=compact&langs_count=7&theme=jolly"/></a>
+</div>
+
+## Softwares e Ferramentas
+[![My Skills](https://skillicons.dev/icons?i=eclipse,git,github,idea,postman,vercel,visualstudio,vscode,androidstudio)](https://skillicons.dev)
+
+## Linguagens
+[![My Skills](https://skillicons.dev/icons?i=cs,css,html,java,javascript,python)](https://skillicons.dev)
+
+## Bibliotecas e Frameworks
+[![My Skills](https://skillicons.dev/icons?i=flask,nextjs,react,spring,sklearn,tailwind)](https://skillicons.dev)
+
+## Bancos de Dados
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
