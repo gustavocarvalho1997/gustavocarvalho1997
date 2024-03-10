@@ -25,5 +25,5 @@
 ## Bibliotecas e Frameworks
 [![My Skills](https://skillicons.dev/icons?i=flask,nextjs,react,spring,sklearn,tailwind)](https://skillicons.dev)
 
-## Bancos de Dados
+## Banco de Dados
 [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
