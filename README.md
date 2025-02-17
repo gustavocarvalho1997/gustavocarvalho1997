@@ -2,8 +2,8 @@
 
 ## Sobre
 
-- 🔭 Sou estudante no curso de Análise e Desenvolvimento de Sistemas na Faculdade de Informática e Administração Paulista (FIAP)
-- 🌱 Atualmente estou estudando **C#**, **React-Native** e aprimorando meus conhecimentos em **Java**, **Javascript**, **Python** e **SQL**
+- 🔭 Sou formado em Análise e Desenvolvimento de Sistemas na Faculdade de Informática e Administração Paulista (FIAP)
+- 🌱 Atualmente me aprofundando em **Python**, **React** e **React-Native**.
 - 📫 Contate-me no email: gustavocarvalho1997@hotmail.com
 - 😄 Pronomes: Any
 - ⚡ Fun fact: Adoro jogar no tempo livre e ler algo sobre tecnologia em geral
